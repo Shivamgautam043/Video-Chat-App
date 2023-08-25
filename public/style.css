@@ -11,7 +11,7 @@ h1 {
   width: 100%;
   height: 50px;
   text-align: center;
-  background-color: #4c0027;
+  background-color: #5d16a3;
   color: #fff;
 }
 .main {
@@ -22,7 +22,7 @@ h1 {
 .main_left {
   width: calc(100vw - 280px);
   height: calc(100vh - 50px);
-  background-color: #570530;
+  background-color: #614cab;
   overflow: hidden;
 }
 
@@ -41,7 +41,7 @@ video {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  background-color: #4c0027;
+  background-color: #320d56;
   color: #fff;
 }
 
@@ -55,7 +55,7 @@ video {
 }
 
 .main_right {
-  background-color: #750550;
+  background-color: #210c35;
   width: 280px;
 }
 
